@@ -47,7 +47,7 @@ Feature engineering focused on:
 
 ## Project Files
 - [Final Report](./reports/Final_Instacart_Report_BY.pdf)
-- [Presentation Deck](presentations/instacart-capstone-presentation.pptx)
+- [Presentation Deck](presentations/Instacart_PPT_BY.pptx)
 
 ## Notes
 This repository presents an academic capstone project in portfolio format, highlighting the methodology, results, and business relevance of the analysis.
