@@ -46,7 +46,7 @@ Feature engineering focused on:
 - data storytelling
 
 ## Project Files
-- [Final Report](reports/final-instacart-report.pdf)
+- [Final Report](./reports/Final_Instacart_Report_BY.pdf)
 - [Presentation Deck](presentations/instacart-capstone-presentation.pptx)
 
 ## Notes
